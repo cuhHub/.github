@@ -2,7 +2,7 @@
 
 # cuhHub
 
-[![My Discord Server](https://img.shields.io/discord/1036844019709390878?style=for-the-badge&logo=discord%label=Join+the+community)](https://dsc.gg/cuhhubsw)
+[![My Discord Server](https://img.shields.io/discord/1036844019709390878?style=for-the-badge&logo=discord&label=Join+the+community)](https://dsc.gg/cuhhubsw)
 
 ---
 
