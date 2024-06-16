@@ -1,4 +1,4 @@
-![Stormworks Screenshot](profile/imgs/3.png)
+![Stormworks Screenshot](imgs/3.png)
 
 # cuhHub
 
@@ -21,4 +21,4 @@ We recommend you join our [Discord](https://dsc.gg/cuhhubsw) to stay up-to-date 
 
 ---
 
-![Stormworks Screenshot](profile/imgs/2.png)
+![Stormworks Screenshot](imgs/2.png)
